@@ -1,0 +1,38 @@
+6
+5Pizza base 
+Hostra 125 100
+tomato 125 100
+Vershkov 125 100
+Caesar 125 100
+Chasnikov 125 100
+7Meat or sausage
+Bacon 23 100
+Vienna_sausages 24 100
+Ham 26 100
+Hunting_sausages 24 100
+Chicken 25 100
+Salami 24 100
+Parma_ham 44 100
+8Vegetable or salad
+Boletus_mushrooms 14 100
+Corn 16 100
+Onion 10 100
+Paprika 12 100
+Chili_pepper 13 100
+Tomato 12 100
+Arugula 20 100
+Pickled_cucumber 13 100
+2Fish
+Salmon 45 100
+Tuna 45 100
+5Cheese
+dorblu 28 100
+Mozzarella 26 100
+Parmesan 28 100
+Feta 26 100
+Cheddar 26 100
+4Different
+Pineapples 15 100
+Olives 15 100
+Olives 20 100
+Grape 15 100
